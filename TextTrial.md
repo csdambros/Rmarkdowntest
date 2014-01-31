@@ -1,0 +1,43 @@
+Start typing. If you need bold face, use double asterisks **this will be bold**. For in-line math text set off with single dollar signs $H_0$ or I can offset with an equation with two dollar signs $$\alpha + \beta - e_i$$
+
+
+# First level header
+followed by some text if I want
+## Second level header
+### Third level header
+
+###### Six level header
+
+
+
+Ignores extra spaces because the paragraph is the basic element
+
+
+* text follows here in teh bulleted list, and it will properly format as you add more
+* short bullets
+* more bullets
+
+January 17th 2014  
+CSD
+
+
+> This texxt is used for quoting and should offset with a different font color. 
+
+For in line "as is" text, use back tick `typewriter font, good for code apply()` then back to regular font
+
+Use double tilde for strike through ~~like this~~
+
+
+```
+Important stuff in this box.
+Need to do this to set things up.
+```
+
+
+
+
+
+
+
+
+
